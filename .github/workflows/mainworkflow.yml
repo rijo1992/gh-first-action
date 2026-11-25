@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: print greeting
         run: echo "Hello world"
-        run: echi : second line"
+        run: echo : second line"
       - name: print goodbye 
         run: | 
           echo " goodbye folks"
